@@ -1,0 +1,17 @@
+:root {
+  --bg-primary: #020408;
+  --bg-secondary: #080d14;
+  --bg-card: #0d1520;
+  --bg-card-hover: #111d2e;
+  --accent-cyan: #00f5ff;
+  --accent-purple: #7b2fff;
+  --accent-green: #00ff88;
+  --accent-red: #ff3b3b;
+  --text-primary: #e8f4f8;
+  --text-muted: #4a7a8a;
+  --glow-cyan: rgba(0, 245, 255, 0.2);
+  --glow-purple: rgba(123, 47, 255, 0.2);
+  --border-subtle: rgba(0, 245, 255, 0.08);
+  --border-active: rgba(0, 245, 255, 0.4);
+  --grid-line: rgba(0, 245, 255, 0.04);
+}
